@@ -14,7 +14,7 @@ function App() {
         <Router>
           <Routes>
             <Route path="/homework" element={<LandingPage />} />
-            <Route path="/homework/movie/:movieId" element={<Detail />} />
+            <Route path="/movie/:movieId" element={<Detail />} />
             <Route path="/homework/items" element={<Items />} />
           </Routes >
         </Router>
