@@ -13,9 +13,9 @@ function App() {
         {/* 요청된 경로로 페이지 이동 : 특정 컴포넌트 실행 */}
         <Router>
           <Routes>
-            <Route path="/homework" element={<LandingPage />} />
+            <Route path="/" element={<LandingPage />} />
             <Route path="/movie/:movieId" element={<Detail />} />
-            <Route path="/homework/items" element={<Items />} />
+            <Route path="/items" element={<Items />} />
           </Routes >
         </Router>
       </div>
