@@ -45,7 +45,7 @@ const Detail = () => {
 
   // 버튼
   function handleUseHistory() {
-    navigate('/');
+    navigate('/homework');
   }
 
   function toggleActorView() {
