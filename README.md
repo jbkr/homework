@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![img_hello_git](https://github.com/jbkr/homework/assets/53550184/7b42bf44-0d38-4823-918d-e7452c63d5fd)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
